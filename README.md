@@ -1,6 +1,6 @@
-## Classification Analysis
+# Classification Analysis
 
-# GUI Usage:
+## GUI Usage:
 
 To get better understanding of dataset and result make sure to activate GUI.
 ```
@@ -13,7 +13,7 @@ streamlit run app.py
 `streamlit run app.py` once you run this command new browser window will be openned, upload the `hr_employee_attrition_data.csv`. That is it! make sure to navigate the bars to observe the results. 
 
 
-# Dataset Overview
+## Dataset Overview
 
 The dataset contains 15,000 employee records designed for multi-class attrition risk prediction.
 
