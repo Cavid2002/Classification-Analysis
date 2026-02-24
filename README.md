@@ -5,6 +5,7 @@
 To get better understanding of dataset and result make sure to activate GUI.
 ```
 git clone https://github.com/Cavid2002/Classification-Analysis
+cd Classification-Analysis
 pip install -r requirments.txt
 streamlit run app.py
 ```
