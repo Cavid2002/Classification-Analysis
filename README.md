@@ -11,7 +11,7 @@ streamlit run app.py
 ```
 
 
-`streamlit run app.py` once you run this command new browser window will be openned, upload the `hr_employee_attrition_data.csv`. That is it! make sure to navigate the bars to observe the results. 
+Once you run this command `streamlit run app.py` new browser window will be openned, upload the `hr_employee_attrition_data.csv`. That is it! make sure to navigate the bars to observe the results. 
 
 
 ## Dataset Overview
