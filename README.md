@@ -11,7 +11,7 @@ streamlit run app.py
 ```
 
 
-Once you run this command `streamlit run app.py` new browser window will be openned. That is it! make sure to navigate the bars to observe the results. 
+Once you run this command `streamlit run app.py` new browser window will be openned. Data set upload might take several seconds so be patient. Make sure to navigate the bars to observe the results. 
 
 
 ## Dataset Overview
